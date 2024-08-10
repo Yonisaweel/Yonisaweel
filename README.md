@@ -7,8 +7,8 @@
 
 <h2>📃Certifications</h2>
 
-- CompTIA Security+ Certification
-- Google Cybersecurity Certificate
+- [CompTIA Security+ Certification](https://i.imgur.com/Dfs5jaH.png)
+- [Google Cybersecurity Certificate](https://i.imgur.com/G85ws1i.png)
 
 <h2> 🤳 Connect with me:</h2>
 
