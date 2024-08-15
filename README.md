@@ -1,7 +1,11 @@
 <h1>Hi, I'm Yonis! <br/></h1>
 
+Self-motivated CompTIA Security+ certified Cyber Security professional seeking to leverage my experience towards an entry-level cybersecurity position. I aim to apply my skills in network security, security policy, and organizational risk management.
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [SIEM Azure Sentinel Honeypot Lab](https://github.com/Yonisaweel/AzureSentinel)
   - [Active Directory Bulk User Creation](https://github.com/Yonisaweel/ActiveDirectoryLab)
   - [Algorithm for file updates in Python](https://github.com/Yonisaweel/UpdatePython)
 
@@ -17,18 +21,3 @@
 
 
 [linkedin]: https://linkedin.com/in/Yonisaweel
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
