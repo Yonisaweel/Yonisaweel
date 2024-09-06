@@ -10,7 +10,9 @@ Hi, I'm Yonis and this is my Cyber Security Portfolio. I am currently seeking a 
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | Azure Virtual Machines, Microsoft Sentinel (SIEM), Log Analytics|  [Link](https://github.com/Yonisaweel/AzureSentinel) |
 | Active Directory Lab | Access Control, File permissions, User management | VirtualBox, Powershell, Active Directory | [Link](https://github.com/Yonisaweel/ActiveDirectoryLab) |
-|  Packet Sniffing   |  Network analysis, TCP/IP, Network Protocols  |     WireShark, TCPdump            |                 |
+|  Packet Sniffing   |  Network analysis, Network Protocols  |     WireShark, TCPdump            |                 |
+| Create a Basic Network Scanner | ICMP Echo Request, TCP Scan  | Python, Scapy | |
+
 
 
 # 📃Certifications
