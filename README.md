@@ -16,7 +16,6 @@ Hi, I'm Yonis and this is my Cyber Security Portfolio. I am currently seeking a 
 
 
 # 📃Certifications
-List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed                |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
