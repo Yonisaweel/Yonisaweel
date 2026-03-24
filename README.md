@@ -4,8 +4,14 @@
 
 Hi, I'm Yonis and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my network security, security policy, and organizational risk management skills, and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
+# ○ C-Projects:
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+| CLC (Command Line Calculator | Functions, Structuring, Compiling  | C Language |  [Link]() |
+| Grade Calculator | Struct, Malloc/Calloc | C Language | [Link]() |
 
-# 👨‍💻 Cybersecurity Projects:
+
+# ○ Cybersecurity Projects:
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | Azure Virtual Machines, Microsoft Sentinel (SIEM), Log Analytics|  [Link](https://github.com/Yonisaweel/AzureSentinel) |
@@ -15,7 +21,7 @@ Hi, I'm Yonis and this is my Cyber Security Portfolio. I am currently seeking a 
 
 
 
-# 📃Certifications
+# ○ Certifications
 
 |     Certification     |               Completed                |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
