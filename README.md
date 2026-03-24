@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Hi, I'm Yonis and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my network security, security policy, and organizational risk management skills, and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi! I'm Yonis and this is my Portfolio. I am currently working on my Bachelors in Computer Science. I've got various experience coding in many different languages, and in different operating systems. I've also completed my Comptia Security+ Certification, as well as a certificate with Google. I am seeking a challenging position that leverages my network security, security policy, and organizational risk management skills, and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 # ○ C-Projects:
 |     Project     |                 Skills                |     Tools       |      Link       |
