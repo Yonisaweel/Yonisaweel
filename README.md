@@ -8,7 +8,7 @@ Hi! I'm Yonis and this is my Portfolio. I am currently working on my Bachelors i
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | CLC (Command Line Calculator | Functions, Structuring, Compiling  | C Language |  [Link]() |
-| Grade Calculator | Struct, Malloc/Calloc | C Language | [Link]() |
+| Grade Calculator | Struct, Malloc/Calloc | C Language | [Link](https://github.com/Yonisaweel/FinalGradeCalculator) |
 
 
 # ○ Cybersecurity Projects:
